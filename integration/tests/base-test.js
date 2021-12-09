@@ -1,4 +1,4 @@
-const URL = "http://spv2-stage.betcoapps.com/";
+const URL = "";
 export const userEmail = "utest202101@gmail.com";
 export const userPass = "Test12345";
 
